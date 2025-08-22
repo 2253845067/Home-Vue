@@ -10,8 +10,18 @@
     "icon": "fa fa-blog"
   },
   {
+    "name": "网盘",
+    "url": "https://pan.zzzg.top",
+    "icon": "far fa-cloud"
+  },
+  {
+    "name": "私人导航",
+    "url": "https://home.zzzg.top",
+    "icon": "far fa-compass"
+  },
+  {
     "name": "图标库",
-    "url": "https://icon.ruom.top/",
+    "url": "https://fontawesome.com",
     "icon": "fa fa-icons"
   }
 ]
