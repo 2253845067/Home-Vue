@@ -1,11 +1,16 @@
 [
   {
-    "name": "博客",
+    "name": "Mizuki博客",
     "url": "https://blog.zzzg.top",
     "icon": "fa fa-blog"
   },
   {
-    "name": "图标",
+    "name": "Hexo博客",
+    "url": "https://yuqi.im",
+    "icon": "fa fa-blog"
+  },
+  {
+    "name": "图标库",
     "url": "https://icon.ruom.top/",
     "icon": "fa fa-icons"
   }
