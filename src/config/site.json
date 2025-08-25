@@ -15,6 +15,11 @@
     "icon": "fa fa-cloud"
   },
   {
+    "name": "探针",
+    "url": "https://vps.zzzg.top",
+    "icon": "fa fa-server"
+  },
+  {
     "name": "私人导航",
     "url": "https://home.zzzg.top",
     "icon": "far fa-compass"
